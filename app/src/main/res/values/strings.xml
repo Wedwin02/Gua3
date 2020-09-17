@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Gua3</string>
+    <string name="B">Bienvenido GUIA-#3</string>
+    <string name="ver">VER LISTA</string>
+    <string name="add">AGREGAR NOMBRE</string>
+    <string name="datos">MIS DATOS</string>
 </resources>
