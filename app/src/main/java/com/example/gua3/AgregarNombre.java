@@ -35,7 +35,7 @@ public class AgregarNombre extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 if(!InfoIsValid()){
-                    Toast.makeText(AgregarNombre.this,"Campos requeridos..",Toast.LENGTH_SHORT).show();
+                    txbNombre.setError("Campo requerido..");
                 }else{
                     new Thread(new ProcesoSecundario()).start();
                 }
