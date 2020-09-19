@@ -1,7 +1,14 @@
 <resources>
-    <string name="app_name">Gua3</string>
+    <string name="app_name">Guia3</string>
     <string name="B">Bienvenido GUIA-#3</string>
     <string name="ver">VER LISTA</string>
     <string name="add">AGREGAR NOMBRE</string>
     <string name="datos">MIS DATOS</string>
+    <string name="name">Ingresar Nombre</string>
+    <string name="procesar">Procesar</string>
+    <string name="ds">Desarrollado por:</string>
+    <string name="estudiante">Edwin Efrain Hernandez Navarrete</string>
+    <string name="codigo">HN17-I04-001</string>
+
+
 </resources>

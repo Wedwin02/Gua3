@@ -30,26 +30,29 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
-            android:background="@drawable/colorplantilla"
             android:text="@string/ver"
-            android:textColor="@drawable/txtcambios" />
+            android:background="@drawable/colorplantilla"
+            android:textColor="@drawable/txtcambios"
+             />
 
         <Button
             android:id="@+id/btnAgregarNombre"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
-            android:background="@drawable/colorplantilla"
             android:text="@string/add"
-            android:textColor="@drawable/txtcambios" />
+            android:background="@drawable/colorplantilla"
+            android:textColor="@drawable/txtcambios"
+             />
 
         <Button
-            android:id="@+id/button3"
+            android:id="@+id/btnDatos"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
-            android:background="@drawable/colorplantilla"
             android:text="@string/datos"
-            android:textColor="@drawable/txtcambios" />
+            android:background="@drawable/colorplantilla"
+            android:textColor="@drawable/txtcambios"
+             />
     </LinearLayout>
 </LinearLayout>
